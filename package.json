@@ -1,5 +1,5 @@
 {
-  "name": "express-boilerplate",
+  "name": "express-hbs-boilerplate",
   "version": "0.1.0",
   "description": "An Express boilerplate with view engine hbs",
   "main": "dist",
