@@ -1,7 +1,7 @@
 {
   "name": "express-boilerplate",
   "version": "0.1.0",
-  "description": "An Express boilerplate",
+  "description": "An Express boilerplate with view engine hbs",
   "main": "dist",
   "scripts": {
     "dev": "NODE_ENV=development nodemon -w src --exec \"babel-node src --presets es2015,stage-0\"",
